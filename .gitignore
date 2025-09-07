@@ -1,0 +1,49 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+.Renviron
+.Rprofile
+.Rsettings
+
+# Package and cache folders
+.Rcache/
+.Rcheck/
+.Rtmp/
+.Rlibs/
+.Rlib/
+
+# Output files
+.Rout
+.Rout.save
+.Rd2pdf*
+
+# Markdown and notebook outputs
+*.utf8.md
+*.knit.md
+*.nb.html
+
+# Shiny application logs
+*.Rproj.user/
+shinyapps/
+rsconnect/
+
+# Packrat and renv dependency management
+packrat/
+renv/library/
+renv/python/
+renv/staging/
+
+# Coverage reports
+coverage.html
+covr*.html
+
+# Other
+*.tar.gz
