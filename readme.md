@@ -13,7 +13,6 @@ The primary goal is to maintain a structured collection of all coursework for re
 ## 📂 Directory Structure
 The repository is organized as follows:
 
-
 .
 ├── assignments/
 │   ├── assignment-01/
@@ -30,8 +29,6 @@ The repository is organized as follows:
     ├── mid-semester/
     │   └── ...
     └── ...
-
----
 
 ## 👤 Contributor
 - **Name:** [Your Name Here]  
