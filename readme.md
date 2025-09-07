@@ -1,14 +1,14 @@
-# HUL 315: Course Assignments & Solutions
+# HUL 315: course assignments & solutions
 
-heyy folks! welcome to my personal repository for **HUL 315**. This space is dedicated to organizing and documenting my work throughout the course, including assignments, solutions, and exam materials.
+heyy folks! welcome to my personal repository for **HUL 315**. this space is dedicated to organizing and documenting my work throughout the course, including assignments, solutions, and exam materials.
 \<i like to write in lower case\>
 
-### Overview
+### overview
 
 this repository serves as a personal archive of my journey through **HUL 315**. the primary goal is to maintain a structured collection of all coursework for review and reference.
 
-### Directory Structure
-The repository is organized as follows:
+### directory structure
+the repository is organized as follows:
 ```
     ├── Assignment - 1/
     │   ├── data/
@@ -20,7 +20,7 @@ The repository is organized as follows:
     │   ├── report.pdf
 ```
 
-### Contributors
+### contributors
 
 | name          | entry no.   | handle                                |
 |---------------|-------------|---------------------------------------|
@@ -29,6 +29,6 @@ The repository is organized as follows:
 | yuvraj gurjar   | 2022MS1xxxx  | [@yuvraj](https://github.com/rohan)     |
 
 
-### Disclaimer
+### disclaimer
 
 the solutions contained within this repository are **my own work** and reflect **my personal understanding** of the course material. they are intended for **reference purposes only** and may not be fully correct.  
