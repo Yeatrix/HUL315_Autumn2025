@@ -1,45 +1,34 @@
-# HUL 315: Course Assignments & Solutions
+# HUL 315: course assignments & solutions
 
-Welcome to my personal repository for **HUL 315**. This space is dedicated to organizing and documenting my work throughout the course, including assignments, solutions, and exam materials.
+heyy folks! welcome to my personal repository for **HUL 315**. this space is dedicated to organizing and documenting my work throughout the course, including assignments, solutions, and exam materials.
+\<i like to write in lower case\>
 
----
+### overview
 
-## 📖 Overview
-This repository serves as a personal archive of my journey through **HUL 315**.  
-The primary goal is to maintain a structured collection of all coursework for review and reference.
+this repository serves as a personal archive of my journey through **HUL 315**. the primary goal is to maintain a structured collection of all coursework for review and reference.
 
----
+### directory structure
+the repository is organized as follows:
+```
+    ├── Assignment - 1/
+    │   ├── data/
+    │   ├── code/
+    │   ├── report.pdf
+    ├── Assignment - 2/
+    │   ├── data/
+    │   ├── code/
+    │   ├── report.pdf
+```
 
-## 📂 Directory Structure
-The repository is organized as follows:
+### contributors
 
-.
-├── assignments/
-│   ├── assignment-01/
-│   │   ├── problem_statement.pdf
-│   │   └── solution.md
-│   ├── assignment-02/
-│   │   └── ...
-│   └── ...
-│
-└── exams/
-    ├── quiz-01/
-    │   ├── questions.pdf
-    │   └── solution.md
-    ├── mid-semester/
-    │   └── ...
-    └── ...
+| name          | entry no.   | handle                                |
+|---------------|-------------|---------------------------------------|
+| lakshya kumar | 2022TT12183  | [@lakshya](https://github.com/Yeatrix) |
+| raunit kumar singh | 2022TT12160  | [@raunit](https://github.com/ananya)   |
+| yuvraj gurjar   | 2022MS1xxxx  | [@yuvraj](https://github.com/rohan)     |
 
-## 👤 Contributor
-- **Name:** [Your Name Here]  
-- **Entry No.:** [Your Entry No. Here]  
-- **Handle:** [Your Handle Here]  
-- **Experience:** This repository is actively being updated as the course progresses.  
 
----
+### disclaimer
 
-## ⚠️ Disclaimer
-The solutions contained within this repository are **my own work** and reflect **my personal understanding** of the course material.  
-They are intended for **reference purposes only** and may not be fully correct.  
-
-👉 For officially verified solutions, please refer to the **course instructors or teaching assistants**.
+the solutions contained within this repository are **my own work** and reflect **my personal understanding** of the course material. they are intended for **reference purposes only** and may not be fully correct.  
